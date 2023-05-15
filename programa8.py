@@ -40,3 +40,7 @@ while digite_nota >=0:
             print(F'Os números menores que a média 7 foram: {menores}')
     print('Progamando Encerrando...')
     
+
+buba = 'Buba'
+
+print(buba)
